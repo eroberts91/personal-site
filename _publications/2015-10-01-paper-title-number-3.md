@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Cell contractility and focal adhesion kinase control circumferential arterial stiffness"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2022-11-01
+venue: 'Vascular Biology'
+paperurl: 'https://eroberts91.github.io/personal-site/files/paper3.pdf'
+citation: 'Roberts, Emilia. (2022). &quot;Cell contractility and focal adhesion kinase control circumferential arterial stiffness.&quot; <i>Vascular Biology</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Arterial stiffening is a hallmark of aging and cardiovascular disease. While it is well established that vascular smooth muscle cells (SMCs) contribute to arterial stiffness by synthesizing and remodeling the arterial extracellular matrix, the direct contributions of SMC contractility and mechanosensors to arterial stiffness, and particularly the arterial response to pressure, remain less well understood despite being a long-standing question of biomedical importance. Here, we have examined this issue by combining the use of pressure myography of intact carotid arteries, pharmacologic inhibition of contractility, and genetic deletion of SMC focal adhesion kinase (FAK). Biaxial inflation-extension tests performed at physiological pressures showed that acute inhibition of cell contractility with blebbistatin or EGTA altered vessel geometry and preferentially reduced circumferential, as opposed to axial, arterial stiffness in wild-type mice. Similarly, genetic deletion of SMC FAK, which attenuated arterial contraction to KCl, reduced vessel wall thickness and circumferential arterial stiffness in response to pressure while having minimal effect on axial mechanics. Moreover, these effects of FAK deletion were lost by treating arteries with blebbistatin or by inhibiting myosin light-chain kinase. The expression of arterial fibrillar collagens, the integrity of arterial elastin, or markers of SMC differentiation were not affected by the deletion of SMC FAK. Our results connect cell contractility and SMC FAK to the regulation of arterial wall thickness and directionally specific arterial stiffening.
