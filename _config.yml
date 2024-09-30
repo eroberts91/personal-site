@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Emilia Roberts / Biomedical Engineer"
+title                    : "Emilia Roberts"
 title_separator          : "-"
 name                     : &name "Emilia Roberts"
-description              : &description "Biomedical Engineer who possesses strong technical and interpersonal skills, and is able to collaborate on projects with a wide variety of scientific applications. Willing and able to learn all skills needed to be a successful member of any research group in the biomedical field."
-url                      : https://eroberts91.github.io/personal-site/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Biomedical Engineer"
+url                      : https://eroberts91.github.io/personal-site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/eroberts91/personal-site"
 
