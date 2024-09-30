@@ -6,7 +6,7 @@ permalink: /publications/2022-11-01-cell-contractility
 excerpt: 'Cellular effect and focal adhesion kinase protein complex have a measureable effect on structure and function of arteries'
 date: 2022-11-01
 venue: 'Vascular Biology'
-paperurl: 'https://eroberts91.github.io/personal-site/files/Cell contractility and focal adhesion kinase control circumferential arterial stiffness.pdf'
+paperurl: 'https://eroberts91.github.io/personal-site/files/paper3.pdf'
 citation: 'Roberts, Emilia. (2022). &quot;Cell contractility and focal adhesion kinase control circumferential arterial stiffness.&quot; <i>Vascular Biology</i>. 4(1).'
 ---
 
