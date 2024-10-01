@@ -3,7 +3,7 @@ title: "Decreased vascular smooth muscle contractility in Hutchinson-Gilford Pro
 collection: publications
 category: manuscripts
 permalink: /publication/2022-05-19-hutchinson-gilford
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper examines the relationship between Hutchinson-Gilford Progeria Syndrome and the cellular/mechanical properties of the cardiovascular system.'
 date: 2021-05-19
 venue: 'Scientific Reports'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
