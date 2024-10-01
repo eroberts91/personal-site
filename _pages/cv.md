@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+This is an example of a [link](http://github.com "Github").
+
+
+
 Education
 ======
 * M.S. in Biomedical Engineering, Drexel University, 2016
@@ -45,5 +49,5 @@ smooth muscle myosin heavy chain expression" Scientific Reports, 2021
 * Co-author, "Arterial stiffness and cardiac dysfunction in Hutchinson–Gilford Progeria Syndrome corrected by inhibition of
 lysyl oxidase" Life Science Alliance, 2021
 * Co-author, "Efemp1 modulates elastic fiber formation and mechanics of the extrahepatic bile duct" bioRxiv, 2021
-* Co-author, "RAGE antagonist peptide mitigates AGE-mediated endothelial hyperpermeability and accumulation of glycox-
+*Co-author, "RAGE antagonist peptide mitigates AGE-mediated endothelial hyperpermeability and accumulation of glycox-
 idation products in human ascending aortas and in a murine model of aortic aneurysm" bioRxiv, 2021
