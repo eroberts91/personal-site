@@ -21,18 +21,18 @@ repository               : "https://github.com/eroberts91/personal-site"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpeg"
   name             : "Emilia Roberts"
   pronouns         : # example: "she/her"  
   bio              : "Biomedical Engineer who possesses strong technical and interpersonal skills, and is able to collaborate on projects with a wide variety of scientific applications. Willing and able to learn all skills needed to be a successful member of any research group in the biomedical field."
-  location         : "Philadelpiha, PA"
+  location         : "Philadelphia, PA"
   employer         : #
   uri              : # URL
   email            : "emiliaroberts991@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0008-9942-348X"
   semantic         : # URL
