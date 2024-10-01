@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click here to download a PDR of my resume. [link](https://eroberts91.github.io/personal-site/files/ERoberts_Resume__July_2024.pdf "Resume PDF").
+Click here to download a PDR of my resume. [link](https://eroberts91.github.io/personal-site/files/ERoberts_Resume__July_2024_.pdf "Resume PDF").
 
 
 
