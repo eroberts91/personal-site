@@ -2,12 +2,12 @@
 title: "Arterial stiffness and cardiac dysfunction in Hutchinson-Gilford Progeria Syndrome corrected by inhibition of lysyl oxidase"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-03-09-arterial-stiffness
+permalink: /publications/2021-03-09-arterial-stiffness
 excerpt: 'This paper examines a possinle course of correction in treating Hutchinson-Gilford Progeria Syndrome via lysyl oxidase, resulting in a decrease in cardiac disfunction.'
 date: 2021-03-09
 venue: 'Life Science Alliance'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://eroberts91.github.io/personal-site/files/2021-03-09-arterial-stiffness.pdf'
 citation: 'Roberts, Emilia. (2021). &quot;Arterial stiffness and cardiac dysfunction in Hutchinson-Gilford Progeria Syndrome corrected by inhibition of lysyl oxidase.&quot; <i>JLife Science Alliance</i>. 4(5).'
 ---
 

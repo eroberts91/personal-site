@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /publications/2023-10-12-blood-pressure
 excerpt: 'This paper highlights lipid droplets as a critical and unappreciated component of endothelial cell biology, explain how lipids increase blood pressure acutely, and provide a mechanistic account for the epidemiological link
 between obesity and elevated blood pressure..'
-date: 2023-19-12
+date: 2023-10-12
 venue: 'The Journal of Clinical Investigation'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://eroberts91.github.io/personal-site/files/2023-10-12-blood-pressure.pdf'
 citation: 'Roberts, Emilia. (2023). &quot;Endothelial lipid droplets suppress eNOS to link high fat consumption to blood pressure elevation.&quot; <i>The Journal of Clinical Investigation</i>. 133(24).'
 ---
 

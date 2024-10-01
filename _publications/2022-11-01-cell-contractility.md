@@ -6,7 +6,7 @@ permalink: /publications/2022-11-01-cell-contractility
 excerpt: 'This paper studies the effect on mechanical properties of arteries via investigating cell contractility and focal adhesion kinase protein complex.'
 date: 2022-11-01
 venue: 'Vascular Biology'
-paperurl: 'https://eroberts91.github.io/personal-site/publications/2022-11-01-cell-contractility.pdf'
+paperurl: 'https://eroberts91.github.io/personal-site/files/2022-11-01-cell-contractility.pdf'
 citation: 'Roberts, Emilia. (2022). &quot;Cell contractility and focal adhesion kinase control circumferential arterial stiffness.&quot; <i>Vascular Biology</i>. 4(1).'
 ---
 
