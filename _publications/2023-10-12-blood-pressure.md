@@ -11,6 +11,8 @@ paperurl: 'https://eroberts91.github.io/personal-site/files/2023-10-12-blood-pre
 citation: 'Roberts, Emilia. (2023). &quot;Endothelial lipid droplets suppress eNOS to link high fat consumption to blood pressure elevation.&quot; <i>The Journal of Clinical Investigation</i>. 133(24).'
 ---
 
+![Preview Figure](https://eroberts91.github.io/personal-site/files/2023-10-12-blood-pressure/blood-pressure1.png?raw=true)
+
 Metabolic syndrome, today affecting more than 20% of the US population, is a group of 5 conditions that often coexist
 and that strongly predispose to cardiovascular disease. How these conditions are linked mechanistically remains unclear,
 especially two of these: obesity and elevated blood pressure. Here, we show that high fat consumption in mice leads to
@@ -20,3 +22,5 @@ accelerates atherosclerosis. Mechanistically, the accumulation of lipid droplets
 endothelial inflammatory signaling cascade that suppresses eNOS and NO production. Pharmacological prevention of lipid
 droplet formation reverses the suppression of NO production in cell culture and in vivo and blunts blood pressure elevation
 in response to a high-fat diet. These results highlight lipid droplets as a critical and unappreciated component of endothelial cell biology, explain how lipids increase blood pressure acutely, and provide a mechanistic account for the epidemiological link between obesity and elevated blood pressure.
+
+![Preview Figure](https://eroberts91.github.io/personal-site/files/2023-10-12-blood-pressure/blood-pressure2.png?raw=true)

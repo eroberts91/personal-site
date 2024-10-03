@@ -46,3 +46,5 @@ remodeling leading to dysfunctional microstructure of the ascending aorta, alter
 and increasing aortic susceptibility to dilation and rupture. Moreover, we show that RAP can
 mitigate AGE-mediated endothelial hyper-permeability in vitro and impact on ascending aneurysm
 in vivo
+
+![Preview Figure](https://eroberts91.github.io/personal-site/files/2021-10-24-rage-antagonist/rage-antagonist1.png?raw=true)
