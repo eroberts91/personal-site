@@ -6,7 +6,7 @@ permalink: /publications/2021-10-24-rage-antagonist
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2021-10-24
 venue: 'bioRxiv'
-paperurl: 'https://eroberts91.github.io/personal-site/files/2021-10-24-rage-antagonist.pdf'
+paperurl: 'https://eroberts91.github.io/personal-site/files/2021-10-24-rage-antagonist/2021-10-24-rage-antagonist.pdf'
 citation: 'Roberts, Emilia. (2021). &quot;RAGE antagonist peptide mitigates AGE-mediated endothelial hyperpermeability and accumulation of glycoxidation products in human ascending aortas and in a murine model of aortic aneurysm.&quot; <i>bioRxiv</i>.'
 ---
 

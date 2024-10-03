@@ -7,7 +7,7 @@ excerpt: 'This paper highlights lipid droplets as a critical and unappreciated c
 between obesity and elevated blood pressure..'
 date: 2023-10-12
 venue: 'The Journal of Clinical Investigation'
-paperurl: 'https://eroberts91.github.io/personal-site/files/2023-10-12-blood-pressure.pdf'
+paperurl: 'https://eroberts91.github.io/personal-site/files/2023-10-12-blood-pressure/2023-10-12-blood-pressure.pdf'
 citation: 'Roberts, Emilia. (2023). &quot;Endothelial lipid droplets suppress eNOS to link high fat consumption to blood pressure elevation.&quot; <i>The Journal of Clinical Investigation</i>. 133(24).'
 ---
 

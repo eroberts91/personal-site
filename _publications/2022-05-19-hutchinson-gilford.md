@@ -6,7 +6,7 @@ permalink: /publications/2022-05-19-hutchinson-gilford
 excerpt: 'This paper examines the relationship between Hutchinson-Gilford Progeria Syndrome and the cellular/mechanical properties of the cardiovascular system.'
 date: 2021-05-19
 venue: 'Scientific Reports'
-paperurl: 'https://eroberts91.github.io/personal-site/files/2022-05-19-hutchinson-gilford.pdf'
+paperurl: 'https://eroberts91.github.io/personal-site/files/2022-05-19-hutchinson-gilford/2022-05-19-hutchinson-gilford.pdf'
 citation: 'Roberts, Emilia. (2021). &quot;Decreased vascular smooth muscle contractility in Hutchinson-Gilford Progeria Syndrome linked to defective smooth muscle myosin heavy chain expression.&quot; <i>Scientific Reports</i>. 11(1).'
 ---
 
