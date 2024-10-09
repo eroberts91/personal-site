@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-For a PDF of my resume! [link](https://eroberts91.github.io/personal-site/files/ERoberts_Resume_08_October_2024.pdf "Resume PDF"). (Last Updated October 2024)
+A PDF of my resume! [link](https://eroberts91.github.io/personal-site/files/ERoberts_Resume_08_October_2024.pdf "Resume PDF"). (Last Updated October 2024)
 Or if you want a docx version [link](https://eroberts91.github.io/personal-site/files/ERoberts_Resume_08_October_2024.docx "Resume Word File").
-
 
 
 Education
@@ -28,7 +27,7 @@ Experience
   * Created and produced projects in different frameworks for data management, analysis, visualization, and presentation.
   * For more information, please refer to https://eroberts91.github.io/personal-site/
 
-*  Research Specialist C: University of Pennsylvania School of Medicine
+* Research Specialist C: University of Pennsylvania School of Medicine
   * Helped to identify several drugs for further research in different virus treatments from a several tens-of-thousands drug library.
   * Maintained cell lines, ran assays and performed data analysis and presentation while managing an accelerated weekly viral assay testing pipeline.
   * Worked under Dr. Dave Schultz in the High Throughput Screening Core at the University of Pennsylvania running assays for virus and cancer drug research.
