@@ -1,8 +1,12 @@
 ---
 title: "Masters Thesis Research"
-excerpt: "Novel Biomechanical and Biochemical Signatures of Post-Traumatic Osteoarthritis: A Murine Model Study<br/><img src='/images/portfolio_images/port1-1.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+
+
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
 This is an example of a [link](http://github.com "Github").
 
