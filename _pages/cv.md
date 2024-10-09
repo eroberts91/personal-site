@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Click here to download a PDF of my resume! [link](https://eroberts91.github.io/personal-site/files/ERoberts_Resume__July_2024_.pdf "Resume PDF").
+For a PDF of my resume! [link](https://eroberts91.github.io/personal-site/files/ERoberts_Resume_08_October_2024.pdf "Resume PDF"). (Last Updated October 2024)
+Or if you want a docx version [link](https://eroberts91.github.io/personal-site/files/ERoberts_Resume_08_October_2024.docx "Resume Word File").
 
 
 
@@ -21,33 +22,43 @@ Education
 Experience
 ======
 * Data Analytics and Visualization Boot Camp: University of Pennsylvania 
-  * A 24-week intensive coding program focused on Python, Machine Learning, Big Data, Tableau, VBA, Javascript, SQLPostgres/Mongodb database management and Microsoft Excel
+  * Received certification from September 2023 Penn Data Science Boot Camp
+  * Passed a 24-week intensive coding program focused on Python, Machine Learning, Big Data, generative AI, Tableau, VBA, Javascript, SQLPostgres/Mongodb database management and Microsoft Excel.
+  * Lead several collaborative project groups in healthcare, natural disasters, and fraud prediction.
+  * Created and produced projects in different frameworks for data management, analysis, visualization, and presentation.
+  * For more information, please refer to https://eroberts91.github.io/personal-site/
 
 *  Research Specialist C: University of Pennsylvania School of Medicine
+  * Helped to identify several drugs for further research in different virus treatments from a several tens-of-thousands drug library.
+  * Maintained cell lines, ran assays and performed data analysis and presentation while managing an accelerated weekly viral assay testing pipeline.
   * Worked under Dr. Dave Schultz in the High Throughput Screening Core at the University of Pennsylvania running assays for virus and cancer drug research.
-  * Maintained cell lines, ran assays and performed data analysis while managing an accelerated weekly viral assay testing pipeline.
 
 * Research Specialist B: University of Pennsylvania School of Medicine
-  * Interacted directly with collaborators of I.T.M.A.T. Bio-mechanics Core services, to organize orders for both existing services as well as newly developed services.
+  * Developed and tested new protocols for self-driven experiments as well as adoption by other researchers in pressure myography and hydrogel-based cell culture assays.
+  * Interacted directly with collaborators of Institute for Translational Medicine and Therapeutics(ITMAT) Bio-mechanics Core services, to organize orders for both existing services as well as newly developed services.
   * Lead researcher for new service adaptation including: atomic force microscopy-based mechanical testing, cell-embedded 3D biodegradable hydrogels, cellular traction force microscopy, and pressure myography mechanical testing.
-  * Developed and tested new protocols for self-driven experiments as well as adoption by other researchers.
   
 Personal and Technical Skills
 ======
-* Collaboration 
-  * Collaborating with different research groups, detail-oriented reporting,  working with and presenting ideas both individually and as a team, working directly with other laboratories
-* Software
+* Lab Research 
+  * Asceptic technique, cell culture, tissue culture, cell assay development, immunohistochemistry, immunofluorescence, microscopy, Atomic force microscopy, tissue dissection, pressure myography, 2D/3D hydrogel development and testing, laboratory organization/ordering, journal writing/review
+* Data
   * MS Office products, Python, Machine Learning, Big Data, Tableau, VBA, Javascript, SQLPostgres/Mongodb database management, Matlab, Minitab, Bruker Nanoscope Analysis, DMT Myoview, TeX
-* Technical 
-  * Atomic force microscopy, immunohistochemistry, mammalian cell culture,  microscopy, tissue dissection, pressure myography, hydrogel development
+* Collaboration
+  * Inter-Group academic research collaboration, detail-oriented reporting, data synthesis, interpretation and presentation, developing and deploying data-rich tools/methodologies, data analysis, motivation to learn new skills, willingness to take on new challenges, scientific curiosity
 
 Publications
 ======
-* Author, "Cell contractility and focal adhesion kinase control circumferential arterial stiffness" Vascular Biology, 2022
-* Co-author, "Decreased vascular smooth muscle contractility in Hutchinson–Gilford Progeria Syndrome linked to defective
-smooth muscle myosin heavy chain expression" Scientific Reports, 2021
-* Co-author, "Arterial stiffness and cardiac dysfunction in Hutchinson–Gilford Progeria Syndrome corrected by inhibition of
-lysyl oxidase" Life Science Alliance, 2021
-* Co-author, "Efemp1 modulates elastic fiber formation and mechanics of the extrahepatic bile duct" bioRxiv, 2021
-*Co-author, "RAGE antagonist peptide mitigates AGE-mediated endothelial hyperpermeability and accumulation of glycox-
-idation products in human ascending aortas and in a murine model of aortic aneurysm" bioRxiv, 2021
+* Roberts, Emilia, et al. “Cell contractility and focal adhesion kinase control circumferential arterial stiffness.” Vascular Bi-
+ology, vol. 4, no. 1, 1 Nov. 2022, pp. 28–39, https://doi.org/10.1530/vb-22-0013.
+* Llewellyn, Jessica, et al. “Efemp1 modulates elastic fiber formation and mechanics of the extrahepatic bile duct.” bioRxiv,
+7 Dec. 2021, https://doi.org/10.1101/2021.12.05.471313.
+* Camillo, Chiara, et al. “Rage antagonist peptide mitigates age-mediated endothelial hyperpermeability and accumulation
+of glycoxidation products in human ascending aortas and in a murine model of aortic aneurysm.” bioRxiv, 24 Oct. 2021,
+https://doi.org/10.1101/2021.10.22.465199.
+* Von Kleeck, Ryan, Emilia Roberts, et al. “Arterial stiffness and cardiac dysfunction in Hutchinson–gilford proge-
+ria syndrome corrected by inhibition of Lysyl oxidase.” Life Science Alliance, vol. 4, no. 5, 9 Mar. 2021,
+https://doi.org/10.26508/lsa.202000997.
+* Von Kleeck, Ryan, Paola Castagnino, et al. “Decreased vascular smooth muscle contractility in Hutchinson–gilford progeria
+syndrome linked to defective smooth muscle myosin heavy chain expression.” Scientific Reports, vol. 11, no. 1, 19 May
+2021, https://doi.org/10.1038/s41598-021-90119-4.

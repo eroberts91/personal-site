@@ -4,7 +4,7 @@ excerpt: "Novel Biomechanical and Biochemical Signatures of Post-Traumatic Osteo
 <img src='https://eroberts91.github.io/personal-site/images/portfolio_images/port1-main.png?raw=true'>"
 collection: portfolio
 ---
-Click here to download a full PDF of my Masters Thesis! [link](https://eroberts91.github.io/personal-site/files/BIOMED Masters Thesis (6.21.16) PRINT - Emilia Roberts.pdf "Full PDF").
+Download a full PDF of my Masters Thesis: [link](https://eroberts91.github.io/personal-site/files/BIOMED Masters Thesis (6.21.16) PRINT - Emilia Roberts.pdf "Full PDF").
 
 
 ![Preview Figure](https://eroberts91.github.io/personal-site/images/portfolio_images/port1-1.png?raw=true)
@@ -29,7 +29,4 @@ cartilage after DMM showed significantly lower nanoindentation modulus than the 
 
 ![Preview Figure](https://eroberts91.github.io/personal-site/images/portfolio_images/port1-5.png?raw=true)
 
-
-
-
-
+I successfully defended this thesis to my committee members in June of 2016.

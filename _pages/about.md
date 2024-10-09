@@ -6,6 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Click here to download a PDF of my resume! [link](https://eroberts91.github.io/personal-site/files/ERoberts_Resume__July_2024_.pdf "Resume PDF").
+A PDF of my resume! [link](https://eroberts91.github.io/personal-site/files/ERoberts_Resume_08_October_2024.pdf "Resume PDF"). (Last Updated October 2024)
 
-Emilia Roberts is a Biomedical Engineer who possesses strong technical and interpersonal skills, and is able to collaborate on projects with a wide variety of scientific applications. Willing and able to learn all skills needed to be a successful member of any research group in the biomedical field. I've recently obtained a certficate of passing from the University of Pennsylvania Data Analysis and Visualization Bootcamp. 
+Biomedical Engineer. Wide experience in academic biochemistry, biomechanical, and virology research as a research specialist. Experienced in all stages of the academic research pipeline, including collaboration, experiment development and execution, data analysis and visualization, and publication. Goals include moving into the medical research industry as a Data Analyst, developing tools and resources for research, and working in a collaborative team to improve the lives of patients.
