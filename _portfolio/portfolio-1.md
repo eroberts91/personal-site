@@ -1,6 +1,6 @@
 ---
 title: "Masters Thesis Research"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='https://eroberts91.github.io/personal-site/images/portfolio_images/port1-1.png?raw=true'>"
 collection: portfolio
 ---
 
