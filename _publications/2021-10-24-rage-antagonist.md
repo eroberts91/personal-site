@@ -3,7 +3,7 @@ title: "RAGE antagonist peptide mitigates AGE-mediated endothelial hyperpermeabi
 collection: publications
 category: manuscripts
 permalink: /publications/2021-10-24-rage-antagonist
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper is about interactions extracellular-matrix and glycoxidation in the aorta and other cardiovascular structures'
 date: 2021-10-24
 venue: 'bioRxiv'
 paperurl: 'https://eroberts91.github.io/personal-site/files/2021-10-24-rage-antagonist/2021-10-24-rage-antagonist.pdf'

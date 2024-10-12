@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF of my resume! [link](https://eroberts91.github.io/personal-site/files/ERoberts_Resume_08_October_2024.pdf "Resume PDF"). (Last Updated October 2024)
-Or if you want a docx version [link](https://eroberts91.github.io/personal-site/files/ERoberts_Resume_08_October_2024.docx "Resume Word File").
+A PDF of my resume: [link](https://eroberts91.github.io/personal-site/files/ERoberts_Resume_08_October_2024.pdf "Resume PDF"). (Last Updated October 2024)
+Or if you want a docx version: [link](https://eroberts91.github.io/personal-site/files/ERoberts_Resume_08_October_2024.docx "Resume Word File").
 
 
 Education
