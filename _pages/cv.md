@@ -25,7 +25,8 @@ Experience
   * Passed a 24-week intensive coding program focused on Python, Machine Learning, Big Data, generative AI, Tableau, VBA, Javascript, SQLPostgres/Mongodb database management and Microsoft Excel.
   * Lead several collaborative project groups in healthcare, natural disasters, and fraud prediction.
   * Created and produced projects in different frameworks for data management, analysis, visualization, and presentation.
-  * For more information, please refer to https://eroberts91.github.io/personal-site/
+  * For more information, please refer to https://bootcamp.sas.upenn.edu/data/curriculum/
+  * Certificate: https://certificates-pod.sas.upenn.edu/44ddbee9-c8ab-42b6-b312-701fde32975e#gs.glei8q
 
 * Research Specialist C: University of Pennsylvania School of Medicine
   * Helped to identify several drugs for further research in different virus treatments from a several tens-of-thousands drug library.
