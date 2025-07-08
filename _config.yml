@@ -24,11 +24,11 @@ author:
   avatar           : "bio-photo.jpeg"
   name             : "Emilia Roberts"
   pronouns         : # example: "she/her"  
-  bio              : "Biomedical Engineer, Academic Researcher, Future Data Analyst"
+  bio              : "Biomedical Engineer & Analyst"
   location         : "Philadelphia, PA"
   employer         : #
   uri              : # URL
-  email            : "emiliaroberts991@gmail.com" 
+  email            : "emilia.m.roberts@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -37,7 +37,7 @@ author:
   orcid            : "http://orcid.org/0009-0008-9942-348X"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Emilia-Roberts?ev=hdr_xprf"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
